@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "from":"Los Angeles (LAS)",
+
+        "to" :"Lax Vegas (LAX)",
+        "date":"May 17 - May 24",
+        "image":"/img/destinations/deals/lax.png"
+    },
+    {
+        "id":2,
+        "from":"Orlando (MCO)",
+        "to" :"Chicago (ORD)",
+        "date":"May 20- May 28",
+        "image":"/img/destinations/deals/mco.png"
+    },
+    {
+        "id":3,
+        "from":"New York (NYC)",
+        "to" :"Orlando (MCO)",
+        "date":"May 17 - May 24",
+        "image":"/img/destinations/deals/nyc-three.png"
+    },
+    {
+        "id":4,
+        "from":"New Orleans (MSY)",
+        "to" :"Houston (IAH)",
+        "date":"May 10 - May 24",
+        "image":"/img/destinations/deals/msy-orleans.png"
+    },
+    {
+        "id":5,
+        "from":"New York City (NYC)",
+        "to" :" Puerto Rico (IAH)",
+        "date":"June 10 - June 24",
+        "image":"/img/destinations/deals/nyc-four.png"
+    },
+    {
+        "id":6,
+        "from":"New York City (NYC)",
+        "to" :"London (LON)",
+        "date":"May 11 - May 25",
+        "image":"/img/destinations/deals/nyc-six.png"
+    }
+]

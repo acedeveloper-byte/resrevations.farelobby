@@ -40,3 +40,12 @@ a {
     color-scheme: dark;
   }
 }
+
+
+
+@media (max-width: 1399px) {
+  .img-logo {
+      width: 90%;
+      height: auto;
+  }
+}
