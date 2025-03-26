@@ -12,7 +12,7 @@ import FloatingCallButton from "@/component/Call";
 import Engine from "@/component/common_comp/Engine";
 import BestDeals from "../utils/BestDeals.json";
 import TestimonialSection from "@/component/HomeComponets/Testimonials";
-import FlightSupport from "@/component/Popup";
+// import FlightSupport from "@/component/Popup";
 
 export default function Home() {
   const sectionRef = useRef();
@@ -26,7 +26,7 @@ export default function Home() {
         contactRef={contactRef}
         blogRef={blogRef}
       />
-      <FlightSupport />
+      {/* <FlightSupport /> */}
       <section class="hero-section hero-4">
         <div class="swiper hero-slider">
           <div class="swiper-wrapper">
